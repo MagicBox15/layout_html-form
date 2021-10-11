@@ -1,1 +1,7 @@
-/* styles go here */
+.form_box {
+  margin-bottom: 20px;
+}
+
+.formfield:not(:last-child) {
+  margin-bottom: 10px;
+}
